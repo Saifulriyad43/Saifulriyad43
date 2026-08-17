@@ -1,8 +1,8 @@
-# Hi, I'm Saiful Islam Riyad 👋
+# Hi, I'm Saiful Islam Riyad 
 
 <div align="center">
 
-  # 🚀 Saiful Islam Riyad
+  #  Saiful Islam Riyad
   ### **Python & Django Backend Developer**
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Saiful.dev-0d6efd?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
@@ -78,7 +78,7 @@
 <div align="left">
 
 - 📧 **Email:** [saiful.riyad43@gmail.com](mailto:saiful.riyad43@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/saiful-riyad-049a38269](https://linkedin.com/saiful-riyad-049a38269/)
+- 💼 **LinkedIn:** [linkedin.com/in/saiful-riyad-049a38269](https://www.linkedin.com/in/saiful-riyad-049a38269/)
 - 💻 **GitHub:** [github.com/Saifulriyad43](https://github.com/Saifulriyad43/)
 
 </div>
