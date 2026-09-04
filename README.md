@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  #  Saiful Islam Riyad
+
   ### **Python & Django Backend Developer**
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Saiful.dev-0d6efd?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 * 🎓 **Education:** B.Sc in Computer Science at **Daffodil Institute of Information and Technology**
 * 💡 **Focus:** Backend Architecture, RESTful API Development, Relational Databases & System Design
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Technical Skills & Proficiency
+##  Technical Skills & Proficiency
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 <br />
 
-### ⚡ Tech Stack Badges
+###  Tech Stack Badges
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -78,8 +78,8 @@
 <div align="left">
 
 - 📧 **Email:** [saiful.riyad43@gmail.com](mailto:saiful.riyad43@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/saiful-riyad-049a38269](https://www.linkedin.com/in/saiful-riyad-049a38269/)
-- 💻 **GitHub:** [github.com/Saifulriyad43](https://github.com/Saifulriyad43/)
+- 💼 **LinkedIn:** [linkedin.com/in/saiful-riyad-049a38269](https://www.linkedin.com/in/saifulriyad43)
+- 💻 **GitHub:** [github.com/Saifulriyad43](https://github.com/Saifulriyad43)
 
 </div>
 
