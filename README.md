@@ -77,9 +77,9 @@
 
 <div align="left">
 
-- 📧 **Email:** [saifulriyad](mailto:saiful.riyad43@gmail.com)
-- 💼 **LinkedIn:** [saifulriyad](https://www.linkedin.com/in/saifulriyad43)
-- 💻 **GitHub:** [saifulriyad](https://github.com/Saifulriyad43)
+- 📧 **Email:** [...](mailto:saiful.riyad43@gmail.com)
+- 💼 **LinkedIn:** [...](https://www.linkedin.com/in/saifulriyad43)
+- 💻 **GitHub:** [...](https://github.com/Saifulriyad43)
 
 </div>
 
