@@ -79,7 +79,7 @@
 
 - 📧 **Email:** [...](mailto:saiful.riyad43@gmail.com)
 - 💼 **LinkedIn:** [...](https://www.linkedin.com/in/saifulriyad43)
-- 💻 **GitHub:** [...](https://github.com/Saifulriyad43)
+- 💻 **GitHub:** [...](https://github.com/saifulriyad43)
 
 </div>
 
